@@ -1,0 +1,3 @@
+This project is a coding project from TheOdinProject.com "foundations course". In this project I will be making a home page which will have a list of other webpages that will display cooking recipes. 
+
+I will be able to demonstrate my HTML skill in linking pages through relative links and maybe some absolute links to some images around the web. I will also be able to demonstrate general HTML skills.
